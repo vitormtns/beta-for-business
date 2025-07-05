@@ -19,16 +19,16 @@ Projeto de plataforma educacional desenvolvida inicialmente em WordPress, com fo
 
 
 ### Painel do Aluno
-![Painel do Aluno](prints/painel-aluno.png)
+![Painel do Aluno](https://github.com/vitormtns/beta-for-business/blob/main/painel-aluno.png)
 
 ### Página de Atividade de Listening
-![Listening](prints/listening.png)
+![Listening](https://github.com/vitormtns/beta-for-business/blob/main/listening.png)
 
 ### Página de Gramática com Accordion Explicativo
-![Grammar](prints/grammar.png)
+![Grammar](https://github.com/vitormtns/beta-for-business/blob/main/grammar.png)
 
 ### Progresso do Aluno com % de acertos
-![Progresso](prints/progresso.png)
+![Progresso](https://github.com/vitormtns/beta-for-business/blob/main/progresso.png)
 
 
 ## Tecnologias e Ferramentas
