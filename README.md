@@ -19,7 +19,7 @@ Projeto de plataforma educacional desenvolvida inicialmente em WordPress, com fo
 
 
 ### Painel do Aluno
-![Painel do Aluno](https://github.com/vitormtns/beta-for-business/blob/main/painel_aluno.png)
+![Painel do Aluno](https://github.com/vitormtns/beta-for-business/blob/main/painel-aluno.png)
 
 ### Página de Atividade de Listening
 ![Listening](https://github.com/vitormtns/beta-for-business/blob/main/listening.png)
@@ -28,7 +28,7 @@ Projeto de plataforma educacional desenvolvida inicialmente em WordPress, com fo
 ![Grammar](https://github.com/vitormtns/beta-for-business/blob/main/grammar.png)
 
 ### Progresso do Aluno com % de acertos
-![Progresso](https://github.com/vitormtns/beta-for-business/blob/main/progresso.png)
+![Progresso](https://github.com/vitormtns/beta-for-business/blob/main/progressonovo.png)
 
 
 ## Tecnologias e Ferramentas
