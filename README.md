@@ -33,11 +33,11 @@ Projeto de plataforma educacional desenvolvida inicialmente em WordPress, com fo
 
 ## Tecnologias e Ferramentas
 
-- WordPress
-- H5P para atividades interativas
-- TablePress
-- CSS e JS customizados (Elementor Free)
-- Organização via painéis e shortcodes personalizados
+- WordPress para base
+- H5P para atividades no início, mas atividades com funções personalizadas no pós
+- Tabelas
+- CSS e JS customizados
+- Organização via painéis e shortcodes personalizados com PHP
 - O plano inicial era usar o TutorLMS, mas não ia ficar com a cara e as funcionalidades que ela queria, então eu optei por desenvolver tudo do zero.
 
 ---
